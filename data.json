@@ -22,7 +22,7 @@
       }
     },
     "eve": {
-      "roles": ["customer"],
+      "roles": ["customer", "guest"],
       "location": {
         "country": "US",
         "ip": "1.1.1.1"
