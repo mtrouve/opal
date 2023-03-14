@@ -2,7 +2,7 @@
  <img src="https://i.ibb.co/BGVBmMK/opal.png" height=170 alt="opal" border="0" />
 </p>
 <h2 align="center">
-OPAL Example Policy Repo
+OPAL Example Policy Repo New
 </h2>
 
 [Check out OPAL main repo here.](https://github.com/permitio/opal)
