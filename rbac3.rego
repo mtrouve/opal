@@ -44,8 +44,6 @@ allow {
 # to another rego policy file, so we can demonstate how to work with
 # an explicit manifest file (force order of policy loading).
 allow {
-	input.matching_policy.grants
-	input.roles
 	utils.hasPermission(input.matching_policy.grants, input.roles)
 }
 
