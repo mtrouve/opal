@@ -20,7 +20,7 @@
 
 package app.rbac
 
-# import data.utils
+import data.utils
 
 # By default, deny requests
 default allow = true
